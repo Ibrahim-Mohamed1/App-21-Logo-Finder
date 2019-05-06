@@ -51,7 +51,7 @@ class App extends Component {
             onChange={this.handleChange}
             autoFocus
             autoComplete='off'
-            placeholder="Facebook.com"
+            placeholder="OneRefugee.org"
             required
           />
         </form>
